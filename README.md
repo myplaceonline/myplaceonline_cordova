@@ -10,6 +10,12 @@ emulator @Pixel_2_API_30
 cordova emulate android
 ```
 
+## Android production build
+
+```
+cordova build android --release -- --keystore=../lib/keys/myplaceonline_android_phonegap.keystore '--storePassword=' --alias=myplaceonline_alias '--password=' --packageType=bundle
+```
+
 ## Resources
 
 * <https://cordova.apache.org/docs/en/latest/guide/cli/index.html>
