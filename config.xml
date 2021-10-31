@@ -1,4 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!--
+https://cordova.apache.org/docs/en/latest/config_ref/index.html
+-->
 <widget id="com.myplaceonline" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Myplaceonline</name>
     <description>
