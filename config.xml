@@ -2,7 +2,7 @@
 <!--
 https://cordova.apache.org/docs/en/latest/config_ref/index.html
 -->
-<widget id="com.myplaceonline" version="1.0.21" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.myplaceonline" version="1.0.21" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>myplaceonline</name>
     <description>Myplaceonline is your digital home. organize, harmonize, maximize.</description>
     <author email="kevin@myplaceonline.com" href="https://myplaceonline.com">Myplaceonline</author>
